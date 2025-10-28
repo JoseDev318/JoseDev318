@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 :computer: **Auxiliar TI en IC**
+
 :pencil: **Estudiante de Analisis y Desarrollo de Software**
+
 :eyeglasses: **Sin miedo a volver a empezar de Cero**
 
 ### Contacto
