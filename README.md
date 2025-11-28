@@ -1,4 +1,4 @@
-## ! Bienvenidos a mi Perfil De Github !
+## Bienvenidos a mi Perfil De Github!
 
 :computer: **Auxiliar TI en IC**
 
@@ -6,6 +6,7 @@
 
 :eyeglasses: **Sin miedo a volver a empezar de Cero**
 
-### Contacto
+### Bibliografia
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZkUTJkkOnzw%26list%3DRDM87J2vz9UZk%26index%3D20)
+orientado al cumplimiento de objetivos con disciplina y responsabilidad. Poseo capacidad de adaptación rápida a nuevas herramientas y tecnologías, con enfoque en la configuración, mantenimiento, optimización de sistemas e infraestructura, 
+y la prestación de un servicio de mesa de ayuda (Help Desk) eficiente.
